@@ -5,7 +5,7 @@ const newHeader = document.createElement('h1')
 
 newHeader.id = 'victory'
 
-newHeader.innerHTML = "Obi is the champion"
+newHeader.textContent = "Obi is the champion"
 
 
 
